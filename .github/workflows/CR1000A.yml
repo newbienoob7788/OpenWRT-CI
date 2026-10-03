@@ -49,7 +49,7 @@ jobs:
       #默认主机名
       WRT_NAME: CR1000A
       #默认WIFI名称
-      WRT_SSID: CR1000A
+      WRT_SSID: 402
       #默认WIFI密码
       WRT_WORD: 77887788
       #默认地址
